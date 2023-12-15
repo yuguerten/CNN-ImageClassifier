@@ -9,7 +9,7 @@ Matplotlib 3.7.1
 OpenCV 4.8.0.76
 You can install them using the following command:
 ```bash
-!pip install tensorflow matplotlib opencv-python
+pip install tensorflow matplotlib opencv-python
 ````
 
 # Usage
